@@ -5,3 +5,5 @@ I have a few preset, on windows startup it autoruns (you have to set that up ofc
 It picks a random one, pops up, then moves it to done. You can see what's done and what's left to do
 
 If the assignment is planking, it will wait 10 seconds, beep, wait x seconds, beep, wait x+2 seconds, beep. This way you know how long to go for
+
+Put it (or a shortcut to it) in your C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp to make it run every time you start your pc
